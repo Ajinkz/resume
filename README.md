@@ -16,3 +16,5 @@
 ### [Elasticsearch: Search-queries](https://ajinkz.github.io/Elasticsearch-search-queries/)
 
 ### [Streamlit examples](https://ajinkz.github.io/Streamlit-example/)
+
+### [Spark on Windows](https://ajinkz.github.io/spark-on-windows-setup/)
