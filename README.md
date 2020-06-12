@@ -1,8 +1,6 @@
 ## Resume
-
----
-| Full Name | Ajinkya Nitin Pathak                                                                   |
-|:-----------|:----------------------------------------------------------------------------------------|
+| Full Name | Ajinkya Nitin Pathak   |
+|:--------|:-------------------------|
 | LinkedIn  | http://www.linkedin.com/in/ajinkyanpathak|
 | Website | https://ajinkz.github.io/ |
 
