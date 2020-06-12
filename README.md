@@ -3,8 +3,6 @@
 ---
 | Full Name | Ajinkya Nitin Pathak                                                                   |
 |:-----------|:----------------------------------------------------------------------------------------|
-| Mobile    | +91-940 579 1190 |
-| Email     | ajinkyanpathak@gmail.com
 | LinkedIn  | http://www.linkedin.com/in/ajinkyanpathak|
 | Website | https://ajinkz.github.io/ |
 
