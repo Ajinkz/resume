@@ -103,7 +103,7 @@ _Being enthusiastic learner, interested in exploring new tech skills in Artifici
 - S&amp;T Dept., Bhusawal, Central Railway
 
 ### Personal Details
-| Full Name         | Ajinkya Nitin Pathak                                                                   |
+| Field         | Value                                                                   |
 |-------------------|----------------------------------------------------------------------------------------|
 | Nationality       | Indian                                                                                 |
 | Date of Birth     | 28th November, 1993                                                                    |
