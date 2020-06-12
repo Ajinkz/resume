@@ -122,15 +122,21 @@ _Being enthusiastic learner, interested in exploring new tech skills in Artifici
 - [Capture Crop Photo for Face recognition preprocessing](https://ajinkz.github.io/CaptureCropPhoto/)
 > A simple python code using in Face Recognition to capture photo using webcam, crop to image centered to face detected
 
-- [Build REST APIs using Django](https://ajinkz.github.io/REST-APIs-Django/)
+- [REST APIs Django](https://ajinkz.github.io/REST-APIs-Django/)
+> Building REST API using Django-REST framework
 
 - [Elastic Stack Setup](https://ajinkz.github.io/Elastic-Stack-Setup/)
+> Steps for installation of Elastic stack on windows machine
 
 - [Elasticsearch: CRUD operations](https://ajinkz.github.io/CRUD-operations-Elasticsearch/)
+> CRUD operations using Elasticsearch restful APIs
 
 - [Elasticsearch: Search-queries](https://ajinkz.github.io/Elasticsearch-search-queries/)
+> Search request APIs to search required data from indices of Elasticsearch
 
 - [Streamlit examples](https://ajinkz.github.io/Streamlit-example/)
+> List of useful components of streamlit framework with code snippets
 
 - [Spark on Windows](https://ajinkz.github.io/spark-on-windows-setup/)
+> Step by step guide to install spark cluster on windows machine
 
