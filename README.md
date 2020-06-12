@@ -36,7 +36,7 @@ _Being enthusiastic learner, interested in exploring new tech skills in Artifici
 
 |**Title:** | **Face Recognition system** |
 |:-----|:----|
-**Technology|Python, OpenCV, Tensorflow, Tkinter**|
+**Technology**|Python, OpenCV, Tensorflow, Tkinter|
 |**Description**|Facenet is mostly deployed with MTCNN (for face detection and alignment) which is computationally expensive, so instead we prefer to use Haar Cascade for face detection which saves a lot of excessive computation and avoids incorrect recognition of distant persons. Instead of looping through user data, creating embedding every time, we had serialized them which has reduced the recognition time significantly.|
 |**Contribution:**| Data collection, deployment of the model for the office attendance system.|
 |Link|https://www.youtube.com/watch?v=Eqp73OhVa94 , https://sway.office.com/eDQI1VFHNFZ34TEU|
