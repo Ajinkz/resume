@@ -9,7 +9,7 @@ _Being enthusiastic learner, interested in exploring new tech skills in Artifici
 
 ### Projects
 
-|**Title:**| **Music Time plugin for Sublime Text**|
+|**Title**| **Music Time plugin for Sublime Text**|
 |:-----|:----|
 |**Technology** | Python, Sublime API|
 |**Description**|Music Time is a plugin that discovers the most productive music to listen to as you code. It will recommend the songs using AI, and will provide control of Spotify player to the developer through the editor only.|
@@ -18,7 +18,7 @@ _Being enthusiastic learner, interested in exploring new tech skills in Artifici
 <hr>
 
 
-|**Title:** |**House Price Prediction Dashboard** |
+|**Title** |**House Price Prediction Dashboard** |
 |:-----|:----|
 |**Technology** | Python, Dash, Plotly, Heroku
 |**Description**|Considering various features of house sale data, we build a predictive model using Gradient boosted regressor, which can estimate price of house.|
@@ -26,7 +26,7 @@ _Being enthusiastic learner, interested in exploring new tech skills in Artifici
 |Link|https://hpp-dash.herokuapp.com/|
 <hr>
 
-|**Title:** | **FAQ Chatbot**|
+|**Title** | **FAQ Chatbot**|
 |:-----|:----|
 **Technology** | Python, Rasa Core , NLU, MongoDB, HTML|
 ||A chatbot that will handle FAQs. We used Rasa core and Rasa NLU which are open source python libraries for creating conversational software that helps in making machine-learning based dialogue management and natural language understanding systems.|
@@ -34,7 +34,7 @@ _Being enthusiastic learner, interested in exploring new tech skills in Artifici
 |Link|https://www.youtube.com/watch?v=q901KMhQrsA|
 <hr>
 
-|**Title:** | **Face Recognition system** |
+|**Title** | **Face Recognition system** |
 |:-----|:----|
 **Technology**|Python, OpenCV, Tensorflow, Tkinter|
 |**Description**|Facenet is mostly deployed with MTCNN (for face detection and alignment) which is computationally expensive, so instead we prefer to use Haar Cascade for face detection which saves a lot of excessive computation and avoids incorrect recognition of distant persons. Instead of looping through user data, creating embedding every time, we had serialized them which has reduced the recognition time significantly.|
